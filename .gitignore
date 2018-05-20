@@ -1,0 +1,8 @@
+build/
+dist/
+nbproject/
+*.txt
+*.png
+*.xlsx
+*.o
+.dep.inc
