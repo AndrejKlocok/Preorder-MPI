@@ -6,3 +6,4 @@ nbproject/
 *.xlsx
 *.o
 .dep.inc
+test/
